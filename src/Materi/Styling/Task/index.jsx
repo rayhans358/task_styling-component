@@ -107,7 +107,7 @@ export default class Task extends React.Component {
 
       <div class="container-fluid bg-dark mt-5">
         <footer>
-          <p class="text-white text-center footer">&copy; 2022 eduwork, Rayhans Najib Al-Farouq</p>
+          <p class="text-white text-center footer">&copy; 2023 eduwork, Rayhans Najib Al-Farouq</p>
         </footer>
       </div>
       </>
